@@ -1,2 +1,2 @@
 # DevianceNet
-[ICCV 2021]Beyond Broken Windows : Learning Spatio-Temporal Representation for Enhanced Deviance Prediction
+[AAAI 2022] DevianceNet: Learning to Predict Deviance from A Large-scale Geo-tagged Dataset
