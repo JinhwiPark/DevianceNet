@@ -76,7 +76,7 @@ Note that '+'(ex. v_class2_g35.0911,129.0394_c1+) indicates the additional sets 
  - scipy>=1.4.1
 
 ### Preparation
-1. download the dataset and pretrained weights at (https://drive.google.com/drive/folders/1ERFaC_6IseQgXDvs5_ep5at56b-b7Vmg?usp=sharing).
+1. Download the dataset and pretrained weights at (https://drive.google.com/drive/folders/1ERFaC_6IseQgXDvs5_ep5at56b-b7Vmg?usp=sharing).
 2. Put the dataset into **./data/** folder
 3. [For Application & Evaluation] Put the pretrained weights into **./weight_file/** folder.
 
