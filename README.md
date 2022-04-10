@@ -1,4 +1,4 @@
-# DevianceNet: Learning to Predict Deviance from A Large-scale Geo-tagged Dataset (AAAI-22, Feb 2022)
+# DevianceNet: Learning to Predict Deviance from A Large-scale Geo-tagged Dataset
 This repository contains the code for the DevianceNet applied to the deviance prediction.
 <br>Accepted to <a href="https://aaai.org/Conferences/AAAI-22/">AAAI 2022</a>
 
