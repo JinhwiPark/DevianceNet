@@ -1,9 +1,10 @@
 # DevianceNet: Learning to Predict Deviance from A Large-scale Geo-tagged Dataset (AAAI-22, Feb 2022)
 This repository contains the code for the DevianceNet applied to the deviance prediction.
+<br>Accepted to <a href="https://aaai.org/Conferences/AAAI-22/">AAAI 2022</a>
 
-**[PROJECT PAGE](https://deviance-project.github.io/DevianceNet/)**
+<a href="https://www.aaai.org/AAAI22Papers/AISI-253.ParkJH.pdf">[PAPER LINK]</a>
+<a href="https://deviance-project.github.io/DevianceNet/">[PROJECT PAGE]</a>
 
-**[PAPER LINK](https://www.aaai.org/AAAI22Papers/AISI-253.ParkJH.pdf)**
 
 # Datatset
 ### Datatset Composition
