@@ -93,9 +93,21 @@ python main.py --DIA_folder_directory {Dataset Directory} --experiment_descripti
 python main.py --SEA_folder_directory ./application --experiment_description Test_DIA --batch_size 1 --classifier_type SEA_DIA --test_only --weight_load_pth ./weight_file/[AAAI2022-DevianceNet]SEA.pth --test_metric SEA
 ```
 
+## Citation
+If you find this code useful for your research, please cite our paper :)
+
+```bibtex
+@inproceedings{park2022deviance,
+  title={DevianceNet: Learning to Predict Deviance from A Large-scale Geo-tagged Dataset},
+  author={Park, Jin-Hwi and Park, Young-Jae and Lee, Junoh and Jeon, Hae-Gon},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  year={2022}
+}
+```
+
 
 ### Acknowledgement	
-This code is based on the original implementations: 
+Part of our code is borrowed from following implementations. We thank the authors for releasing their code and models.
 - DELTAS: Depth Estimation by Learning Triangulation And densification of Sparse points (ECCV 2020) [Code](https://github.com/magicleap/DELTAS) [paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660103.pdf)
 - A Closer Look at Spatiotemporal Convolutions for Action Recognition (CVPR 2018)
 [Code](https://github.com/irhum/R2Plus1D-PyTorch) [paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Tran_A_Closer_Look_CVPR_2018_paper.pdf)
