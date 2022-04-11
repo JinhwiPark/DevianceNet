@@ -79,7 +79,7 @@ Note that '+'(ex. v_class2_g35.0911,129.0394_c1+) indicates the additional sets 
 ### Preparation
 1. Download the dataset and pretrained weights at (https://drive.google.com/drive/folders/1ERFaC_6IseQgXDvs5_ep5at56b-b7Vmg?usp=sharing).
 2. Put the dataset into **./data/** folder
-3. [For Application & Evaluation] Put the pretrained weights into **./weight_file/** folder.
+3. [Application & Evaluation] Put the pretrained weights into **./weight_file/** folder.
 
 ### Training & Testing
 Use the **'main.py'** to train/test our model.
