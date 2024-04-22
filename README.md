@@ -1,11 +1,15 @@
-# DevianceNet: Learning to Predict Deviance from A Large-scale Geo-tagged Dataset
+# Recognizing Deviant Place
+
+Identifying and mapping urban Crime-Hotspots using a deep-learning model and sequential images of deviant locations (i.e., Location of reported deviant incidents such as crime and civil complaints).
+
+### [<a href="https://aaai.org/Conferences/AAAI-22/">AAAI2022</a>] "DevianceNet: Learning to Predict Deviance from A Large-scale Geo-tagged Dataset"
+### [TPAMI2024] "What Makes Deviant Places?"
+
 This repository contains the code for the DevianceNet applied to the deviance prediction.
-<br>Accepted to <a href="https://aaai.org/Conferences/AAAI-22/">AAAI 2022</a>
 
 <a href="https://deviance-project.github.io/DevianceNet/">[PROJECT PAGE]</a>
 
-### Journal Extension
-(20/04/2024) An extension version, "What Makes Deviant Places?" is accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)  !!
+
 
 # Datatset
 ### Datatset Composition
