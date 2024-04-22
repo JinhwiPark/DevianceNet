@@ -2,11 +2,10 @@
 This repository contains the code for the DevianceNet applied to the deviance prediction.
 <br>Accepted to <a href="https://aaai.org/Conferences/AAAI-22/">AAAI 2022</a>
 
-An extension version, "What Makes Deviant Places?" is accepted to TPAMI (20/04/2024) !!
-
-<a href="https://www.aaai.org/AAAI22Papers/AISI-253.ParkJH.pdf">[PAPER LINK]</a>
 <a href="https://deviance-project.github.io/DevianceNet/">[PROJECT PAGE]</a>
 
+### Journal Extension
+(20/04/2024) An extension version, "What Makes Deviant Places?" is accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)  !!
 
 # Datatset
 ### Datatset Composition
