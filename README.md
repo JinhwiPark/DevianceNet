@@ -1,6 +1,6 @@
 # Recognizing Deviant Place
 Identifying and mapping urban Crime-Hotspots using a deep-learning model and sequential images of deviant locations (i.e., Location of reported deviant incidents such as crime and civil complaints).
-#### [<a href="https://aaai.org/Conferences/AAAI-22/">AAAI2022</a>] "DevianceNet: Learning to Predict Deviance from A Large-scale Geo-tagged Dataset"
+#### [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/21463">AAAI2022</a>] "DevianceNet: Learning to Predict Deviance from A Large-scale Geo-tagged Dataset"
 #### [<a href="https://ieeexplore.ieee.org/document/10508107">TPAMI2024</a>] "What Makes Deviant Places?"
 - This repository contains the code for the DevianceNet applied to the deviance prediction.
 
