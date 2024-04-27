@@ -10,7 +10,7 @@ https://github.com/JinhwiPark/DevianceNet/assets/70624468/9ad55a68-1b19-4800-825
 
 # Datatset
 ### Datatset Examples
-<img src = "https://github.com/JinhwiPark/DevianceNet/assets/70624468/5f23c5dd-6156-4801-b1eb-3477ca12674b" width="40%" height="40%">
+<img src = "https://github.com/JinhwiPark/DevianceNet/assets/70624468/5f23c5dd-6156-4801-b1eb-3477ca12674b" width="60%" height="60%">
 
 ### Datatset Composition
  - Sequential images
